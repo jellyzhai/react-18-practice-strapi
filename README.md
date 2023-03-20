@@ -1,3 +1,8 @@
+# 项目启动后的登录信息
+  - 登录地址：http://localhost:1337/admin
+  - 1970361237@qq.com
+  - 密码：4g5GCiKVa723A6N
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
